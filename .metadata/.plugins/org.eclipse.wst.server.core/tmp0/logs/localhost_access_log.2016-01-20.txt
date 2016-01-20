@@ -1,0 +1,15 @@
+127.0.0.1 - - [20/Jan/2016:17:16:52 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:16:53 +0100] "GET /Brainbnb/login.jsp HTTP/1.1" 200 1398
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:16:53 +0100] "GET /Brainbnb/resources/css/login.css HTTP/1.1" 200 1587
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:16:53 +0100] "GET /Brainbnb/resources/img/aperto-logo.svg HTTP/1.1" 200 2797
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:02 +0100] "POST /Brainbnb/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/startpage.jsp HTTP/1.1" 200 8268
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/resources/css/startpage.css HTTP/1.1" 200 1759
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/resources/font/ApertoAGReg HTTP/1.1" 404 1064
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/theme.blue.css HTTP/1.1" 404 1040
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/jquery-1.11.3.js HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/jquery.tablesorter.min.js HTTP/1.1" 404 1062
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/resources/img/User_Bild_2.png HTTP/1.1" 200 9192
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:03 +0100] "GET /Brainbnb/resources/img/search-icon.png HTTP/1.1" 200 15225
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:06 +0100] "GET /Brainbnb/LogoutServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jan/2016:17:17:06 +0100] "GET /Brainbnb/login.jsp HTTP/1.1" 200 1398
